@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Edu Med</string>
+    <string name="alergias">Alergias</string>
+    <string name="bronquitis">Bronquitis</string>
+    <string name="diarrea">Diarrea</string>
+    <string name="dolor_Cabeza">Dolor de Cabeza</string>
+    <string name="dolor_Muscular">Dolor Muscular</string>
+    <string name="oido">Problemas de oidos</string>
+    <string name="esguince">Esguince</string>
+    <string name="estrenimiento">Estreñimiento</string>
+    <string name="ardor_ojos">Ardor de Ojos</string>
+    <string name="fiebre">Fiebre</string>
+    <string name="garganta">Dolor de Garganta</string>
+    <string name="gastritis">Gastritis</string>
+    <string name="hemorroides">Hemorroides</string>
+    <string name="hongos">Hongos</string>
+    <string name="insomnio">Insomnio</string>
+    <string name="menstruacion">Menstruación</string>
+    <string name="mosquitos">Mosquitos</string>
+    <string name="naris">Naris</string>
+    <string name="nauceas">Vomito y Nauceas</string>
+    <string name="painback">Espalda</string>
+    <string name="rabia">Rabia</string>
+    <string name="unaenterrada">Uña enterrada</string>
+    <string name="urinarios">Urinarios</string>
+
+</resources>

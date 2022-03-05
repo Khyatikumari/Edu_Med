@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.edumed">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EduMed">
+        <activity android:name=".urinarios"></activity>
+        <activity android:name=".unaenterrada" />
+        <activity android:name=".painback" />
+        <activity android:name=".nariz" />
+        <activity android:name=".menstruacion" />
+        <activity android:name=".insomnio" />
+        <activity android:name=".hongos" />
+        <activity android:name=".hemorroides" />
+        <activity android:name=".garganta" />
+        <activity android:name=".fiebre" />
+        <activity android:name=".eye" />
+        <activity android:name=".estrenimiento" />
+        <activity android:name=".esguince" />
+        <activity android:name=".ear" />
+        <activity android:name=".dolormusulcar" />
+        <activity android:name=".dolordecabeza" />
+        <activity android:name=".diarrea" />
+        <activity android:name=".bronquitis" />
+        <activity android:name=".alergia_p" />
+        <activity android:name=".nauceas" />
+        <activity android:name=".gastritis" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
